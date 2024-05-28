@@ -1,0 +1,160 @@
+[
+    {
+        "question": "Welches Betriebssystem wird häufig auf Mainframes verwendet?",
+        "answers": ["Windows", "Linux", "macOS", "z/OS"],
+        "correct_answer": "z/OS"
+    },
+    {
+        "question": "Was ist ein typisches Merkmal von Mainframe-Computern?",
+        "answers": ["Klein und leicht", "Groß und schwer", "Langsam und ineffizient", "Kostengünstig und einfach zu warten"],
+        "correct_answer": "Groß und schwer"
+    },
+    {
+        "question": "Welche Art von Anwendungen sind typischerweise auf Mainframes zu finden?",
+        "answers": ["Spiele", "Webbrowser", "Unternehmensanwendungen", "Social-Media-Apps"],
+        "correct_answer": "Unternehmensanwendungen"
+    },
+    {
+        "question": "Was bedeutet 'MIPS' in Bezug auf Mainframes?",
+        "answers": ["Millionen von Instruktionen pro Sekunde", "Kleine Anzahl von Bytes", "Mittlere Instanz der parallelen Verarbeitung", "Minimale Implementierung von Prozessorstatus"],
+        "correct_answer": "Millionen von Instruktionen pro Sekunde"
+    },
+    {
+        "question": "Welcher Hersteller ist bekannt für seine Mainframe-Systeme?",
+        "answers": ["Apple", "IBM", "Samsung", "Microsoft"],
+        "correct_answer": "IBM"
+    },
+    {
+        "question": "Was ist eine häufige Verwendung von Mainframe-Computern in Unternehmen?",
+        "answers": ["Personalisierte Werbung", "Finanztransaktionen", "Wettervorhersage", "Musikproduktion"],
+        "correct_answer": "Finanztransaktionen"
+    },
+    {
+        "question": "Was ist ein typisches Merkmal von Mainframe-Betriebssystemen?",
+        "answers": ["Basiert auf Open-Source-Technologien", "Einfache Benutzeroberfläche", "Hohe Zuverlässigkeit und Verfügbarkeit", "Wenig Speicherplatzbedarf"],
+        "correct_answer": "Hohe Zuverlässigkeit und Verfügbarkeit"
+    },
+    {
+        "question": "Was ist 'z/VM' in Bezug auf Mainframes?",
+        "answers": ["Eine spezialisierte Art von virtueller Realität", "Ein Betriebssystem für Virtuelle Maschinen", "Ein Sicherheitsprotokoll für Mainframes", "Ein Gaming-Peripheriegerät"],
+        "correct_answer": "Ein Betriebssystem für Virtuelle Maschinen"
+    },
+    {
+        "question": "Was ist ein typischer Grund für die Verwendung von Mainframes in großen Unternehmen?",
+        "answers": ["Geringe Skalierbarkeit", "Niedrige Kosten", "Hohe Datensicherheit", "Einfache Wartung"],
+        "correct_answer": "Hohe Datensicherheit"
+    },
+    {
+        "question": "Was ist 'CICS' in Bezug auf Mainframes?",
+        "answers": ["Ein Grafikdesign-Tool", "Ein Datenbankmanagementsystem", "Ein Transaktionsmonitor", "Ein Betriebssystembefehl"],
+        "correct_answer": "Ein Transaktionsmonitor"
+    },
+    {
+        "question": "Welche Art von Speicher wird typischerweise in Mainframes verwendet?",
+        "answers": ["NAND-Flash-Speicher", "Magnetscheiben (Disketten)", "SD-Karten", "RAM (Random Access Memory)"],
+        "correct_answer": "Magnetscheiben (Disketten)"
+    },
+    {
+        "question": "Was ist 'LPAR' in Bezug auf Mainframes?",
+        "answers": ["Eine Netzwerkprotokoll-Spezifikation", "Eine Methode zur Partitionierung von Systemressourcen", "Ein Kryptografiealgorithmus", "Ein Energiesparmodus"],
+        "correct_answer": "Eine Methode zur Partitionierung von Systemressourcen"
+    },
+    {
+        "question": "Was ist eine häufige Verwendung von Mainframe-Datenbanken?",
+        "answers": ["Online-Shopping", "Buchhaltung", "Soziale Medien", "Musik-Streaming"],
+        "correct_answer": "Buchhaltung"
+    },
+    {
+        "question": "Was ist 'IMS' in Bezug auf Mainframes?",
+        "answers": ["Ein Flugsicherungssystem", "Ein Netzwerkprotokoll", "Ein Datenbankverwaltungssystem", "Ein Spracherkennungssystem"],
+        "correct_answer": "Ein Datenbankverwaltungssystem"
+    },
+    {
+        "question": "Was ist 'JCL' in Bezug auf Mainframes?",
+        "answers": ["Ein Hochsprachen-Compiler", "Ein Dateiformat für Bilddateien", "Eine Abfragesprache für Datenbanken", "Eine Job-Control-Sprache"],
+        "correct_answer": "Eine Job-Control-Sprache"
+    },
+    {
+        "question": "Welche Rolle spielen Mainframes oft in Rechenzentren?",
+        "answers": ["Speichern von Urlaubsfotos", "Steuerung von Raumtemperatur", "Verarbeitung von Transaktionen", "Spielen von Videospiele"],
+        "correct_answer": "Verarbeitung von Transaktionen"
+    },
+    {
+        "question": "Was ist 'HMC' in Bezug auf Mainframes?",
+        "answers": ["Ein Modell von Hypercars", "Ein Remote-Management-Tool", "Ein Supercomputer-Cluster", "Ein Videokomprimierungsformat"],
+        "correct_answer": "Ein Remote-Management-Tool"
+    },
+    {
+        "question": "Welche Funktion hat 'RAID' in Bezug auf Mainframes?",
+        "answers": ["Redundante Array von Inexpensive Disks", "Eine Sicherheitssoftware", "Ein Grafikdesign-Tool", "Ein Datensicherungssystem"],
+        "correct_answer": "Redundante Array von Inexpensive Disks"
+    },
+    {
+        "question": "Was bedeutet 'RAS' in Bezug auf Mainframes?",
+        "answers": ["Remote Access Service", "Robustness, Availability, Serviceability", "Rapid Application Setup", "Resource Allocation System"],
+        "correct_answer": "Robustness, Availability, Serviceability"
+    },
+    {
+        "question": "Was ist 'GDPS' in Bezug auf Mainframes?",
+        "answers": ["Eine Grafikdesign-Software", "Ein Business-Planungs-Tool", "Ein Notfallwiederherstellungssystem", "Ein Kryptografiealgorithmus"],
+        "correct_answer": "Ein Notfallwiederherstellungssystem"
+    },
+    {
+        "question": "Was ist 'SCRT' in Bezug auf Mainframes?",
+        "answers": ["Ein Sicherheitsüberprüfungs-Tool", "Ein Bildschirmaufzeichnungswerkzeug", "Ein Online-Chat-Programm", "Ein Textverarbeitungsprogramm"],
+        "correct_answer": "Ein Sicherheitsüberprüfungs-Tool"
+        },
+
+    {
+        "question": "Was ist 'LPAR' in Bezug auf Mainframes?",
+        "answers": ["Logical Partitioning", "Linear Partitioning", "Local Partitioning", "Limited Partitioning"],
+        "correct_answer": "Logical Partitioning"
+    },
+    {
+        "question": "Was bedeutet 'SDLC' in Bezug auf Mainframes?",
+        "answers": ["Synchronous Data Link Control", "Serial Data Link Control", "System Data Link Control", "Simplified Data Link Control"],
+        "correct_answer": "Synchronous Data Link Control"
+    },
+    {
+        "question": "Was ist 'IMS' in Bezug auf Mainframes?",
+        "answers": ["Information Management System", "Internet Management System", "Integrated Monitoring System", "Instructional Management System"],
+        "correct_answer": "Information Management System"
+    },
+    {
+        "question": "Was bedeutet 'APF' in Bezug auf Mainframes?",
+        "answers": ["Authorized Program Facility", "Advanced Program Function", "Application Program Framework", "Automatic Program Feature"],
+        "correct_answer": "Authorized Program Facility"
+    },
+    {
+        "question": "Was ist 'IDMS' in Bezug auf Mainframes?",
+        "answers": ["Integrated Database Management System", "Internet Database Management System", "Interconnected Data Management System", "Intelligent Data Management System"],
+        "correct_answer": "Integrated Database Management System"
+    },
+    {
+        "question": "Was bedeutet 'CICS' in Bezug auf Mainframes?",
+        "answers": ["Customer Information Control System", "Common Internet Communication System", "Complex Integrated Communication System", "Critical Information Computing System"],
+        "correct_answer": "Customer Information Control System"
+    },
+    {
+        "question": "Was ist 'DB2' in Bezug auf Mainframes?",
+        "answers": ["Database 2", "Data Buffer 2", "Data Bank 2", "Dynamic Backup 2"],
+        "correct_answer": "Database 2"
+    },
+    {
+        "question": "Was bedeutet 'SVC' in Bezug auf Mainframes?",
+        "answers": ["Supervisor Call", "System Virtualization Control", "Service Control", "System Validation Check"],
+        "correct_answer": "Supervisor Call"
+    },
+    {
+        "question": "Was ist 'RACF' in Bezug auf Mainframes?",
+        "answers": ["Resource Access Control Facility", "Remote Access Control Facility", "Relational Access Control Facility", "Rapid Access Control Facility"],
+        "correct_answer": "Resource Access Control Facility"
+    },
+    {
+        "question": "Was bedeutet 'DFSMS' in Bezug auf Mainframes?",
+        "answers": ["Data Facility Storage Management Subsystem", "Distributed File System Management System", "Dynamic File System Management Subsystem", "Database File Storage Management System"],
+        "correct_answer": "Data Facility Storage Management Subsystem"
+    }
+]
+
+        
